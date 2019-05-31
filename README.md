@@ -6,7 +6,7 @@ In the home directory, open terminal and type below command
 
 python -m http.server  (Python 3)
 
-        or
+or
         
 python -m SimpleHTTPServer  (Python 2)
 
