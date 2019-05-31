@@ -18,3 +18,6 @@ http://localhost:8000/demos/threejs/tiger/
 
 http://localhost:8000/demos/threejs/wolf/
 
+http://localhost:8000/demos/faceReplacement/gif/
+
+http://localhost:8000/demos/faceReplacement/image/
